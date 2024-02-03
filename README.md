@@ -35,19 +35,19 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### My Socials:
-<a href="https://www.linkedin.com/in/maxim-golovko-514643203/">
+<a href="https://www.linkedin.com/in/maxim-golovko-514643203/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:maxim.golvko@gmail.com">
+<a href="mailto:maxim.golvko@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://t.me/wheremymind">
+<a href="https://t.me/wheremymind" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="wa.link/bd8brx">
+<a href="wa.link/bd8brx" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
