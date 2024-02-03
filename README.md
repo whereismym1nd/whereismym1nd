@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="wa.link/bd8brx" style="text-decoration: none;">
+<a href="https://wa.link/bd8brx" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
