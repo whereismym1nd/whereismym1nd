@@ -34,9 +34,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### My Socials:
-<a target="_blank" href="https://www.linkedin.com/in/%E2%80%AC%E2%80%8Emaxim-golovko-514643203/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a target="_blank" href="mailto:maxim.golvko@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
